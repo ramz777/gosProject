@@ -1,0 +1,76 @@
+.targetStatus{
+    width: 85%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.targetStatus table{
+    font-size: 7px;
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+}
+
+.titleColumn{
+    border-bottom: 1px solid #B92034;
+}
+
+
+
+.tdLeft{
+    text-align: left;
+}
+
+.targetStatus table td{
+    padding: 4px;
+}
+
+.red{
+    width: 100%;
+    background-color: #fa707a;
+    border-radius: 4px;
+}
+
+.yellow{
+    width: 100%;
+    background-color: #ecf56c;
+    border-radius: 4px;
+    margin: 2px 0px;
+}
+
+.green{
+    width: 100%;
+    background-color: #85ff87;
+    border-radius: 4px;
+    margin-bottom: 2px;
+}
+
+.green1{
+    width: 100%;
+    background-color: green;
+    border-radius: 4px;
+}
+
+.kv{
+    width: 10%;
+}
+
+.kv div{
+    margin-bottom: 2px;
+}
+
+.inp{
+    width: 90%;
+    text-align: center;
+}
+
+.progressBarBlock{
+    border: 1px solid #B92034;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.progressBar{
+    border-radius: 8px;
+    transition: .8s;
+}

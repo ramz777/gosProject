@@ -1,0 +1,40 @@
+.columnNames{
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.mainTable{
+    font-size: 7px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.mainTable .titleColumn{
+    background-color: rgba(185, 32, 52, 0.16);
+    border-bottom: 1px solid #B92034;
+}
+
+.titleColumn th{
+    padding: 4px;
+}
+
+.first{
+    border-top-left-radius: 4px;
+}
+
+.last{
+    border-top-right-radius: 4px;
+}
+
+.mainTable td{
+    border-bottom: 1px solid #B92034;
+    padding: 4px;
+    vertical-align: top;
+}
+
+.mainTable ul{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}

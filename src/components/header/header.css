@@ -1,0 +1,40 @@
+.header{
+    padding: 4px 20px;
+    box-shadow: 0 4px 4px -4px #B92034;
+    display: flex;
+}
+
+.logoMain{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    width: 40px;
+}
+
+
+.title{
+    font-size: 10px
+}
+
+.signIn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.signIn button{
+    background-color: #B92034;
+    color: white;
+    font-size: 6px;
+    padding: 4px;
+    margin-left: 4px;
+    border: 0px;
+    border-radius: 4px;
+}
+
+.signIn button:hover{
+    box-shadow: 0 2px 4px #ffc4c4;
+}
+

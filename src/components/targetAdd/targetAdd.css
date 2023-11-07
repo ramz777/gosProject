@@ -1,0 +1,42 @@
+.targetAdd{
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.targetAdd h6{
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+input, select{
+    font-size: 7px;
+    padding: 4px;
+    border: 1px solid #B92034;
+    border-radius: 4px;
+    width: 30%;
+}
+
+.input{
+    width: 60%;
+}
+
+option{
+    width: 300px;
+}
+
+
+.btn{
+    background-color: #B92034;
+    font-size: 7px;
+    padding: 4px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
